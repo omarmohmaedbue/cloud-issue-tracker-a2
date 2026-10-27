@@ -4,7 +4,15 @@
     "title": "Unable to access Wi-Fi",
     "description": "Connection fails in the teaching lab.",
     "priority": "High",
-    "status": "Open",
+    "status": "Resolved",
     "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "ISS-1793092178536",
+    "title": "gfdhfdhfdhd",
+    "description": "hfdhfdhfdhdfhdf",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-27T09:09:38.536Z"
   }
 ]
